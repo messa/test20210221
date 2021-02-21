@@ -1,3 +1,3 @@
 # test20210221
 
-[ahoj](/ahoj)
+[Jít na stránku ahoj](ahoj)
